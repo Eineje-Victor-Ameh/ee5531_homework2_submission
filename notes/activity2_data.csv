@@ -1,9 +1,9 @@
 config,step,Neff,spread
-range_bearing,5,,
-range_bearing,10,,
-range_bearing,15,,
-range_bearing,20,,
-range_only,5,,
-range_only,10,,
-range_only,15,,
-range_only,20,,
+range_bearing,5,400,0.20
+range_bearing,10,400,0.20
+range_bearing,15,400,0.22
+range_bearing,20,400,0.24
+range_only,5,400,0.30
+range_only,10,400,0.28
+range_only,15,400,0.29
+range_only,20,400,0.13
