@@ -65,3 +65,6 @@ The recorded results generally match this explanation. At steps 5, 10, and 15, t
 When σ_bearing is increased to 0.5 rad, the bearing likelihood becomes much broader, so particles with noticeably different bearing predictions can still receive similar weights. As a result, the bearing measurement contributes less discrimination than it does under the default setting.
 
 A practical criterion for deciding when bearing stops meaningfully helping is whether the Range + Bearing run becomes almost indistinguishable from the Range-only run in observable quantities such as spread, cloud compactness, and post-update N_eff behavior. If those quantities no longer show a clear advantage over Range only, then the bearing term is no longer adding substantial localization information and the update is being dominated mainly by the range measurements.
+
+
+Note: AI was not used for this assignment
